@@ -1,0 +1,32 @@
+{
+  "region": {
+    "uk": [
+      {
+        "id": "SKU_ID",
+        "name": "iPhone 15 Pro Max",
+        "color": "Blue",
+        "capacity": "256GB"
+      },
+      {
+        "id": "SKU_ID2",
+        "name": "iPhone 15 Pro Max",
+        "color": "Blue",
+        "capacity": "256GB"
+      }
+    ],
+    "us": [
+      {
+        "id": "SKU_ID3",
+        "name": "iPhone 15 Pro Max",
+        "color": "Blue",
+        "capacity": "256GB"
+      },
+      {
+        "id": "SKU_ID4",
+        "name": "iPhone 15 Pro Max",
+        "color": "Black",
+        "capacity": "256GB"
+      }
+    ]
+  }
+}
