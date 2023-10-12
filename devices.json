@@ -9,16 +9,166 @@
         "capacity": "256GB"
       },
       {
+        "id": "MU6A3LL/A",
+        "name": "iPhone 15 Pro Max",
+        "color": "Black",
+        "capacity": "512GB"
+      },
+      {
+        "id": "MU6F3LL/A",
+        "name": "iPhone 15 Pro Max",
+        "color": "Black",
+        "capacity": "1TB"
+      },
+      {
         "id": "MU693LL/A",
         "name": "iPhone 15 Pro Max",
         "color": "Blue",
         "capacity": "256GB"
       },
       {
+        "id": "MU6E3LL/A",
+        "name": "iPhone 15 Pro Max",
+        "color": "Blue",
+        "capacity": "512GB"
+      },
+      {
+        "id": "MU6J3LL/A",
+        "name": "iPhone 15 Pro Max",
+        "color": "Blue",
+        "capacity": "1TB"
+      },
+      {
         "id": "MU683LL/A",
         "name": "iPhone 15 Pro Max",
         "color": "Natural",
         "capacity": "256GB"
+      },
+      {
+        "id": "MU6D3LL/A",
+        "name": "iPhone 15 Pro Max",
+        "color": "Natural",
+        "capacity": "512GB"
+      },
+      {
+        "id": "MU6H3LL/A",
+        "name": "iPhone 15 Pro Max",
+        "color": "Natural",
+        "capacity": "1TB"
+      },
+      {
+        "id": "MU673LL/A",
+        "name": "iPhone 15 Pro Max",
+        "color": "White",
+        "capacity": "256GB"
+      },
+      {
+        "id": "MU6C3LL/A",
+        "name": "iPhone 15 Pro Max",
+        "color": "White",
+        "capacity": "512GB"
+      },
+      {
+        "id": "MU6G3LL/A",
+        "name": "iPhone 15 Pro Max",
+        "color": "White",
+        "capacity": "1TB"
+      },
+      {
+        "id": "MTQM3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Black",
+        "capacity": "128GB"
+      },
+      {
+        "id": "MTQR3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Black",
+        "capacity": "256GB"
+      },
+      {
+        "id": "MTQW3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Black",
+        "capacity": "512GB"
+      },
+      {
+        "id": "MTU13LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Black",
+        "capacity": "1TB"
+      },
+      {
+        "id": "MTQQ3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Blue",
+        "capacity": "128GB"
+      },
+      {
+        "id": "MTQV3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Blue",
+        "capacity": "256GB"
+      },
+      {
+        "id": "MTU03LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Blue",
+        "capacity": "512GB"
+      },
+      {
+        "id": "MTU63LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Blue",
+        "capacity": "1TB"
+      },
+      {
+        "id": "MTQP3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Natural",
+        "capacity": "128GB"
+      },
+      {
+        "id": "MTQU3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Natural",
+        "capacity": "256GB"
+      },
+      {
+        "id": "MTQY3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Natural",
+        "capacity": "512GB"
+      },
+      {
+        "id": "MTU53LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "Natural",
+        "capacity": "1TB"
+      },
+      {
+        "id": "MTQN3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "White",
+        "capacity": "128GB"
+      },
+      {
+        "id": "MTQT3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "White",
+        "capacity": "256GB"
+      },
+      {
+        "id": "MTQX3LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "White",
+        "capacity": "512GB"
+      },
+      {
+        "id": "MTU43LL/A",
+        "name": "iPhone 15 Pro",
+        "color": "White",
+        "capacity": "1TB"
       }
     ]
   }
