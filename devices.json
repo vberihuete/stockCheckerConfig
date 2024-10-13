@@ -2,171 +2,99 @@
   "region": {
     "uk": [
       {
-        "id": "MU773ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "Black",
-        "capacity": "256GB"
-      },
-      {
-        "id": "MU7C3ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "Black",
-        "capacity": "512GB"
-      },
-      {
-        "id": "MU7G3ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "Black",
-        "capacity": "1TB"
-      },
-      {
-        "id": "MU7A3ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "Blue",
-        "capacity": "256GB"
-      },
-      {
-        "id": "MU7F3ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "Blue",
-        "capacity": "512GB"
-      },
-      {
-        "id": "MU7K3ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "Blue",
-        "capacity": "1TB"
-      },
-      {
-        "id": "MU793ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "Natural",
-        "capacity": "256GB"
-      },
-      {
-        "id": "MU7E3ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "Natural",
-        "capacity": "512GB"
-      },
-      {
-        "id": "MU7J3ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "Natural",
-        "capacity": "1TB"
-      },
-      {
-        "id": "MU783ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "White",
-        "capacity": "256GB"
-      },
-      {
-        "id": "MU7D3ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "White",
-        "capacity": "512GB"
-      },
-      {
-        "id": "MU7H3ZD/A",
-        "name": "iPhone 15 Pro Max",
-        "color": "White",
-        "capacity": "1TB"
-      },
-      {
-        "id": "MTUV3ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Black",
+        "id": "MYNF3QN/A",
+        "name": "iPhone 16 Pro",
+        "color": "Desert Titanium",
         "capacity": "128GB"
       },
       {
-        "id": "MTV13ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Black",
+        "id": "MYNG3QN/A",
+        "name": "iPhone 16 Pro",
+        "color": "Desert Titanium",
         "capacity": "256GB"
       },
       {
-        "id": "MTV73ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Black",
+        "id": "MYNH3QN/A",
+        "name": "iPhone 16 Pro",
+        "color": "Desert Titanium",
         "capacity": "512GB"
       },
       {
-        "id": "MTVC3ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Black",
+        "id": "MYNJ3QN/A",
+        "name": "iPhone 16 Pro",
+        "color": "Desert Titanium",
         "capacity": "1TB"
       },
       {
-        "id": "MTV03ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Blue",
+        "id": "MYNK3QN/A",
+        "name": "iPhone 16 Pro",
+        "color": "Black Titanium",
         "capacity": "128GB"
       },
       {
-        "id": "MTV63ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Blue",
+        "id": "MYNL3QN/A",
+        "name": "iPhone 16 Pro",
+        "color": "Black Titanium",
         "capacity": "256GB"
       },
       {
-        "id": "MTVA3ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Blue",
+        "id": "MYNM3QN/A",
+        "name": "iPhone 16 Pro",
+        "color": "Black Titanium",
         "capacity": "512GB"
       },
       {
-        "id": "MTVG3ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Blue",
+        "id": "MYNN3QN/A",
+        "name": "iPhone 16 Pro",
+        "color": "Black Titanium",
         "capacity": "1TB"
       },
       {
-        "id": "MTUX3ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Natural",
+        "id": "MYNP3QN/A",
+        "name": "iPhone 16 Pro Max",
+        "color": "Natural Titanium",
         "capacity": "128GB"
       },
       {
-        "id": "MTV53ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Natural",
+        "id": "MYNQ3QN/A",
+        "name": "iPhone 16 Pro Max",
+        "color": "Natural Titanium",
         "capacity": "256GB"
       },
       {
-        "id": "MTV93ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Natural",
+        "id": "MYNR3QN/A",
+        "name": "iPhone 16 Pro Max",
+        "color": "Natural Titanium",
         "capacity": "512GB"
       },
       {
-        "id": "MTVF3ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "Natural",
+        "id": "MYNS3QN/A",
+        "name": "iPhone 16 Pro Max",
+        "color": "Natural Titanium",
         "capacity": "1TB"
       },
       {
-        "id": "MTUW3ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "White",
+        "id": "MYNT3QN/A",
+        "name": "iPhone 16 Pro Max",
+        "color": "Desert Titanium",
         "capacity": "128GB"
       },
       {
-        "id": "MTV43ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "White",
+        "id": "MYNU3QN/A",
+        "name": "iPhone 16 Pro Max",
+        "color": "Desert Titanium",
         "capacity": "256GB"
       },
       {
-        "id": "MTV83ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "White",
+        "id": "MYNV3QN/A",
+        "name": "iPhone 16 Pro Max",
+        "color": "Desert Titanium",
         "capacity": "512GB"
       },
       {
-        "id": "MTVD3ZD/A",
-        "name": "iPhone 15 Pro",
-        "color": "White",
+        "id": "MYNW3QN/A",
+        "name": "iPhone 16 Pro Max",
+        "color": "Desert Titanium",
         "capacity": "1TB"
       }
     ],
